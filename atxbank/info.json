@@ -1,0 +1,11 @@
+{
+    "author": ["Ataraxy Inc"],
+    "min_bot_version": "3.4.7",
+    "description": "Ataraxy's custom bank extension.",
+    "hidden": false,
+    "install_msg": "Kimo is gay!",
+    "required_cogs": {},
+    "requirements": [],
+    "short": "ATX Bank",
+    "tags": ["ATX"]
+}
